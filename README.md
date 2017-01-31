@@ -1,3 +1,5 @@
-# ⚡️ GraphCMS is a GraphQL based Headless Content Management System ⚡️
+# GraphQL-CMS
 
-[Please visit our website for more information](https://graphcms.com)
+⚡️ GraphCMS is a GraphQL based Headless Content Management System ⚡️
+
+[Please visit the GraphCMS website for more information](https://graphcms.com)
